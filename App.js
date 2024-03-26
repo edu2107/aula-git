@@ -26,6 +26,8 @@ return (
 
 <Card porcentagem = '6' titulo = 'TIME' imagem = 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4774.png' descricao = 'ITUANO'></Card>
 
+<Card porcentagem = '6' titulo = 'TIME' imagem = 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4774.png' descricao = 'ITUANO'></Card>
+
 </View>
 
 );
