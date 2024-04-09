@@ -1,6 +1,6 @@
 import {View, Text} from 'react-native';
 
-import estilo from './estilo';
+import estilo from './style.js';
 
 export default function Header(){
 
