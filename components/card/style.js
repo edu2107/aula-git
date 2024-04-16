@@ -1,59 +1,59 @@
-import {StyleSheet} from 'react-native'
+import { StyleSheet } from 'react-native'
 
 const estilo = StyleSheet.create({
 
-cardTarefa: {
+    cardTarefa: {
 
-marginTop: 20,
+        marginTop: 20,
 
-backgroundColor: '#A8DADC',
+        backgroundColor: '#A8DADC',
 
-width: '100%',
+        width: '100%',
 
-height: 125,
+        height: 125,
 
-alignItems:'center',
+        alignItems: 'center',
 
-justifyContent:'space-between',
+        justifyContent: 'space-between',
 
-borderRadius: 10,
+        borderRadius: 10,
 
-borderColor: 'white',
+        borderColor: 'white',
 
-borderWidth: 2,
+        borderWidth: 2,
 
-flexDirection: 'row',
+        flexDirection: 'row',
 
-padding: 15,
+        padding: 15,
 
-shadowColor: '#000',
+        shadowColor: '#000',
 
-shadowOffset: { width: 0, height: 2 },
+        shadowOffset: { width: 0, height: 2 },
 
-shadowOpacity: 0.3,
+        shadowOpacity: 0.3,
 
-shadowRadius: 2,
+        shadowRadius: 2,
 
-elevation: 5,
+        elevation: 5,
 
-},
+    },
 
-textoCard: {
-    fontSize: 10,
+    textoCard: {
+        fontSize: 10,
 
-marginTop: 5,
+        marginTop: 5,
 
-},
+    },
 
-imagemCard: {
+    imagemCard: {
 
-width: 60,
+        width: 60,
 
-height: 60,
+        height: 60,
 
-marginRight: 15,
+        marginRight: 15,
 
-}
+    }
 
 })
 
